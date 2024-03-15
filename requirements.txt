@@ -1,2 +1,5 @@
 numpy
 matplotlib
+pytest
+pandas
+seaborn
